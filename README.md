@@ -22,3 +22,4 @@ Follow the on-screen instructions to shuffle the deck, take turns, and play the 
 The game follows the rules of the traditional Big 2 card game. Detailed instructions are displayed during gameplay to guide you.
 
 **Developed by Justin Lam as a part of a programming course project.**
+**Cards are not sorted when dealt**
