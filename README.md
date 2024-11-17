@@ -10,11 +10,9 @@ Terminal Interface: All gameplay is conducted in the terminal for a retro, text-
 **Installation**<br/>
 Ensure you have Python 3.x installed on your system.<br/>
 Download or clone the project files to your local machine.<br/>
-Navigate to the directory containing the SmallerTwo-Justin-Lam.py file.<br/>
 
 **How to Play**<br/>
-Open your terminal.<br/>
-Enter code "python SmallerTwo-Justin-Lam.py"<br/>
+In the terminal navigate to the directory and enter `python SmallerTwo-Justin-Lam.py` <br/>
 Follow the on-screen instructions to shuffle the deck, take turns, and play the game.<br/>
 
 **Rules**<br/>
